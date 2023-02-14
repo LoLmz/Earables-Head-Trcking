@@ -1,0 +1,16 @@
+PODS:
+  - ESense (0.1.3)
+
+DEPENDENCIES:
+  - ESense
+
+SPEC REPOS:
+  trunk:
+    - ESense
+
+SPEC CHECKSUMS:
+  ESense: cbe103ad16c435424f2fd6f8b274f2468af84173
+
+PODFILE CHECKSUM: d76524f7a8f439aec42abdec256aaaa4e35a699f
+
+COCOAPODS: 1.11.3
