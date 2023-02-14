@@ -37,5 +37,11 @@ File Structure:
 	The technique I use to calibrate the IMU is quite simple and more sophisticated methods exist.
 	I collect 200 accelerometer and gyroscope samples while keeping head fix at center position and then take the average of the values for each axis. This gives the offset that has to be applied to each axis in order to have the appropriate readings: gyro X,Y and Z very close to 0 and accelerometer X=1, Y=0 and Z=0 when looking forword.
 
+## App:
 
+For each app use .xcworkspace version
+
+- ErablesFace: App to collect data
+- Erable3dObj: App for test
+- ErablesFaceForTest: App for test and for collect results in a .csv file
 
